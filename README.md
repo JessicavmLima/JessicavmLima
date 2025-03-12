@@ -1,4 +1,4 @@
-## Olá seja bem vindo 👋
+## Olá seja bem vindo(a) 👋
 
 - 🌱 estou estudando: Javascript e Python
 - 📚 Buscando melhorar minhas habilidades
